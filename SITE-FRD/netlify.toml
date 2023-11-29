@@ -1,0 +1,6 @@
+
+
+[[redirects]]
+  from = "/*"
+  to = "/Page-principale.html"
+  status = 200

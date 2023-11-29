@@ -1,0 +1,22 @@
+.grid-container > .grid-3 > .in-grid > .hike {
+    height: 400px;
+    width: auto;
+    margin-top: 0.8%;
+    border: none;
+    border-radius: 0%;
+}
+
+.grid-container > .grid-5 > .in-grid > .interview {
+    height: 400px;
+    width: auto;
+    border: none;
+    border-radius: 0%;
+}
+
+.grid-container > .grid-4 > .in-grid > .charte {
+    height: 400px;
+    width: auto;
+    margin-bottom: 5%;
+    border: none;
+    border-radius: 0%;
+}
